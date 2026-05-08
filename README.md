@@ -55,7 +55,7 @@ npm install
 npm run dev
 ```
 
-Frontend runs at `http://localhost:5173` and backend at `http://localhost:5000`.
+Frontend runs at `https://roxiler-systems-assignment-nine.vercel.app` and backend at `https://roxiler-systems-assignment-qab2.onrender.com`.
 
 ## Default Seed Accounts
 
